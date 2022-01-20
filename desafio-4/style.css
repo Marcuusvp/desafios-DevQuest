@@ -1,0 +1,19 @@
+
+
+.tablehouse th{
+    padding: 10px;
+    color: white;
+    background-color: #00c4b4;
+}
+
+.tablemoda th{
+    padding: 10px;
+    color: white;
+    background-color: #bb86fc
+}
+
+td{
+    padding: 8px;
+    color: white;
+    background: #424250;
+}
